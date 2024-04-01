@@ -1,0 +1,8 @@
+Животные:
+Bird: Воробей, Возраст: 2
+Mammal: Лев, Возраст: 5
+Reptile: Змея, Возраст: 3
+
+Персонал:
+ZooKeeper: <__main__.ZooKeeper object at 0x000002018F416410>
+Veterinarian: <__main__.Veterinarian object at 0x000002018F4163B0>
